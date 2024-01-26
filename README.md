@@ -1,6 +1,6 @@
 # Restaurant Review DApp - README
 
-Welcome to the **Restaurant Review DApp** project repository! This decentralized application (DApp) leverages uses Solana blockchain technology. The users can add and update review of the restaurant.
+Welcome to the **Restaurant Review DApp** project repository! This decentralized application (DApp) leverages the use of Solana blockchain technology. The users can add and update review of the restaurant.
 
 ## Table of Contents
 
