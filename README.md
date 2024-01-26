@@ -13,7 +13,6 @@ Welcome to the **Restaurant Review DApp** project repository! This decentralized
 - [Demo](#Demo)
 - [Frontend](#frontend)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -91,8 +90,5 @@ Contributions to this project are welcome! To contribute:
 5. Push changes to your fork.
 6. Submit a pull request describing your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
